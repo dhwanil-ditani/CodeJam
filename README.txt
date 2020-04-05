@@ -5,10 +5,10 @@ Points : 43
 Qualification Status: Yes
 Q1 Vestigium : Test Case 1 : Passed
 Q2 Nesting Depth : Test Case 1 : Passed
-				   Test Case 2 : Passed
+                   Test Case 2 : Passed
 Q3 Parenting Partnering Returns : Test Case 1 : Passed
-								  Test Case 2 : Passed
+                                  Test Case 2 : Passed
 Q4 ESAb ATAd : Test Case 1 : Passed
-			   Test Case 2 : Failed
-			   Test Case 3 : Failed
+               Test Case 2 : Failed
+               Test Case 3 : Failed
 Q5 Indicium : Not Attemted
